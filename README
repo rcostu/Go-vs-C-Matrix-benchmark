@@ -1,0 +1,8 @@
+This is a project to benchmark Go vs C programming languages in matrix
+multiplication. There are secuential and parallel programs using threads and
+goroutines.
+
+This project is based on an assignment done for the <a
+href="http://www.datsi.fi.upm.es/docencia/arq-MP/">Multiprocessor
+Architectures</a>
+course at Facultad de Informática of Universidad Politécnica de Madrid
