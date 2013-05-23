@@ -5,3 +5,7 @@ goroutines.
 This project is based on an assignment done for the Multiprocessor Architectures
 (http://www.datsi.fi.upm.es/docencia/arq-MP/)
 course at Facultad de Informática of Universidad Politécnica de Madrid
+
+Go's old version can be found at subfolder 1.0.
+New upcoming version soonoupdating code to go 1.1 will be located at subfolder
+1.1.
